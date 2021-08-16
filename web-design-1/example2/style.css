@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+}
+
+.container {
+  margin-top: 2%;
+}
+
+.card {
+  padding: 20px 0px 20px 0px;
+  background-color: pink;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.login-img {
+  padding: 0 2rem 2rem 0;
+  margin: auto;
+  display: block;
+  width: 70%;
+}
+
+.login-form {
+  max-width: 350px;
+  margin: auto;
+}
+
+.login-input {
+  width: 100%;
+  margin-top: 15px;
+}
+
+.login-btn {
+  color: white;
+  background-color: black;
+  width: 100%;
+
+  margin-bottom: 1.2rem;
+}
+
+.create-account {
+  color: green;
+  font-size: 1.1rem;
+  text-align: center;
+  display: block;
+  margin-top: 15px;
+}

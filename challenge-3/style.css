@@ -1,0 +1,41 @@
+/* CAUTION: DO NOT TOUCH THIS FILE */
+
+body {
+  font-size: 1.5rem;
+  background-color: lightgray;
+}
+
+.canvas-container {
+  margin: 3px;
+  padding: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btns-container {
+  display: inline-flex;
+  padding: 10px;
+  justify-content: space-evenly;
+}
+
+.btns-container input {
+  margin-left: 10px;
+}
+
+.log-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#log {
+  font-family: monospace;
+  width: 600px;
+  height: 400px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background-color: white;
+  font-size: 0.6em;
+  white-space: pre;
+}

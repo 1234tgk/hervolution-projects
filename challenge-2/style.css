@@ -1,0 +1,14 @@
+/* CAUTION: DO NOT TOUCH THIS FILE */
+
+body {
+  font-size: 1.5rem;
+  background-color: lightgray;
+}
+
+.canvas-container {
+  margin: 3px;
+  padding: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
