@@ -1,0 +1,28 @@
+body {
+  background-color: purple;
+  color: yellow;
+}
+
+.text-container {
+  display: flex;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+  font-size: 1.5rem;
+}
+
+.text-container h1 {
+  font-size: 1.8rem;
+}
+
+.score {
+  margin-left: auto;
+}
+
+.canvas-container {
+  margin: 3px;
+  padding: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
